@@ -34,6 +34,6 @@ This will bring up your browser and will show you the contents of the `Programmi
 
 ## License
 
-All notebooks were originally created By Lucija Brozić and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0). Their content has been adapted by Klara Venglarova for the purposes of the course Introduction to programming at the University of Graz.
+All notebooks were originally created by Lucija Brozić and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0). Their content has been adapted by Klara Venglarova for the purposes of the course Introduction to programming at the University of Graz.
 
 
