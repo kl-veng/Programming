@@ -2,7 +2,7 @@
 
 The repository of the course "Introduction to Programming" at UNI Graz.
 
-The course is thaught by Klara Venglarova. The course materials were adapted from:  https://github.com/lucijakrusic/IP23 by Lucija Brozić.
+The course is taught by Klara Venglarova. The course materials were adapted from:  https://github.com/lucijakrusic/IP23 by Lucija Brozić.
 
 It will contain all Jupyter Notebooks and example data that we will use during the course. All notebooks will be in English.
 
